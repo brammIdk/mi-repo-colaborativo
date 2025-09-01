@@ -3,6 +3,10 @@ Este es mi archivo inicial
 
 #cambiorealizado en github
 
-#archivo modificadode manera local
+#archivo modificadode manera local 
 
-Línea añadida en local en la tarea.
+
+  Línea añadida desde GitHub en la tarea.//01.09.2025
+  
+  
+  Línea añadida en local en la tarea. //01.09.2025
