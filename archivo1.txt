@@ -1,9 +1,0 @@
-Este es mi archivo inicial
-
-
-#cambiorealizado en github
-
-#archivo modificadode manera local 
-
-
-  Línea añadida desde GitHub en la tarea.//01.09.2025
